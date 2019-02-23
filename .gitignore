@@ -1,0 +1,6 @@
+test1/**/*
+train/**/*
+.ipynb_checkpoints/**/*
+test1.zip
+train.zip
+vgg16_weights.npz
